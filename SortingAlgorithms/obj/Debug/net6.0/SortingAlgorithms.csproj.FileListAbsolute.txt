@@ -1,0 +1,15 @@
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms.deps.json
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms.runtimeconfig.json
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms.dll
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms.pdb
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.csproj.AssemblyReference.cache
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.AssemblyInfo.cs
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.dll
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/refint/SortingAlgorithms.dll
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.pdb
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.genruntimeconfig.cache
+/Users/devinsalgado35/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/ref/SortingAlgorithms.dll
